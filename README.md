@@ -23,7 +23,6 @@ This project is a movie booking application developed using the **MERN stack** (
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/yourusername/movie-booking-app.git
 cd movie-booking-app
 
