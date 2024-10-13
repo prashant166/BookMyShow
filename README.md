@@ -1,37 +1,32 @@
-# bookMyShow
-![Screenshot (100)](https://github.com/user-attachments/assets/b47ede3b-0537-4f25-9c4c-f8c7d200b157)
+# BookMyShow - Movie Booking Application
 
+![Screenshot](https://github.com/user-attachments/assets/b47ede3b-0537-4f25-9c4c-f8c7d200b157)
 
-Overview
+## Overview
 
-This project is a movie booking application built using the MERN stack (MongoDB, Express.js, React, Node.js). It enables users to easily browse available movies, select showtimes, choose seats, and complete bookings. Additionally, users can view their booking history to keep track of past reservations.
+This project is a movie booking application developed using the **MERN stack** (MongoDB, Express.js, React, Node.js). The application allows users to seamlessly browse through available movies, select showtimes, choose seats, and complete their bookings. Additionally, users can access their booking history to keep track of past reservations.
 
-Features
+## Features
 
-Movie Selection: Allows users to browse and select movies from a list of available options.
+- **Movie Selection**: Users can browse a list of available movies and select their preferred option.
+- **Time Slot & Seat Selection**: Offers flexibility for users to choose preferred showtimes and select their seats.
+- **Streamlined Booking Process**: A user-friendly and efficient booking process that minimizes steps.
+- **Booking History**: Displays a record of the user's previous bookings for easy reference.
 
-Time Slot & Seat Selection: Provides flexibility to choose preferred showtimes and seats.
+## Tech Stack
 
-Streamlined Booking Process: Users can book their chosen movie and seat quickly with minimal steps.
+- **Frontend**: React with Context API and local storage for state management.
+- **Backend**: Node.js and Express.js for server-side operations and API management.
+- **Database**: MongoDB is used to store booking details and manage seat availability.
 
-Booking History: Displays a record of previous bookings for easy reference.
+## Setup and Installation
 
+### 1. Clone the Repository
 
-Tech Stack
-
-Frontend: React with Context API and local storage for state management.
-
-Backend: Node.js and Express.js for server-side operations and API handling.
-
-Database: MongoDB for data storage, ensuring that booking information and seat availability are well managed.
-
-
-Setup and Installation
-
-1. Clone the Repository:
-
+```bash
 git clone https://github.com/yourusername/movie-booking-app.git
 cd movie-booking-app
+
 
 
 2. Install Backend Dependencies:
